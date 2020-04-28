@@ -1,5 +1,4 @@
 <nav>
-<a href="/" {% if page.url != "/about" %}class="current"{% endif %}>{{ site.title }}</a> // <a href="/about" {% if page.url == "/about" %}class="current"{% endif %}>About</a>
+<a href="/" {% if page.url != "/about" %}class="current"{% endif %}>{{ site.title }}</a> // <a href="/about" {% if page.url contains "/about" %}class="current"{% endif %}>About</a>
 </nav>
-
 
