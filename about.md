@@ -19,7 +19,3 @@ title: About
 **Q:** Then, why still write?  
 
 **A:** *Because I enjoy it. People don't have to be Michael Phelps to enjoy swimming.*  
-
-**Q:** What else do you enjoy doing?  
-
-**A:** *Learning.*
